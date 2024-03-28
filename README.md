@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Denise Leonen, a first-year CS student 👩🏻‍💻
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt" width="100"/>
+</div>
+
 <!--
 **deniseleonen/deniseleonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
