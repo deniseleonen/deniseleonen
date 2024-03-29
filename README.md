@@ -1,6 +1,11 @@
 
 ![my LinkedIn Banner (1)](https://github.com/deniseleonen/deniseleonen/assets/84146485/5fdf4891-40b4-4786-968e-2eab0cc076ef)
 
+Hello World!
+
+- 📫 How to reach me: dkayeleonen@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Capybaras are my fav animal! :)
 <!--
 **deniseleonen/deniseleonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
