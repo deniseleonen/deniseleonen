@@ -1,9 +1,5 @@
-### Hi there 👋
 
-I'm Denise Leonen, a first-year CS student 👩🏻‍💻
-<div id="header" align="center">
-  <img src="https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt" width="100"/>
-</div>
+![my LinkedIn Banner (1)](https://github.com/deniseleonen/deniseleonen/assets/84146485/5fdf4891-40b4-4786-968e-2eab0cc076ef)
 
 <!--
 **deniseleonen/deniseleonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
