@@ -1,5 +1,6 @@
 
-![my LinkedIn Banner (1)](https://github.com/deniseleonen/deniseleonen/assets/84146485/5fdf4891-40b4-4786-968e-2eab0cc076ef)
+<!--![my LinkedIn Banner (1)](https://github.com/deniseleonen/deniseleonen/assets/84146485/5fdf4891-40b4-4786-968e-2eab0cc076ef)-->
+Hello! 👋 I'm Denise Leonen, a junior studying Stats and DS at UC Berkeley 👩🏻‍💻
 
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning C++, HTML, CSS, and JavaScript.
