@@ -4,7 +4,7 @@ Hello! 👋 I'm Denise Leonen, a junior studying Stats and DS at UC Berkeley �
 
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning C++, HTML, CSS, and JavaScript.
-- 📫 How to reach me: dkayeleonen@gmail.com 
+- 📫 How to reach me: deniseleonen@berkeley.edu 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Wombats are my favorite animal!
 
