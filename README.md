@@ -9,6 +9,11 @@ Hello! 👋 I'm Denise, an undergrad student studying Stats and DS at the Univer
 - ⚡ Fun fact: Wombats are my favorite animal!
 
 
+Hello World!
+
+- 📫 How to reach me: dkayeleonen@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Capybaras are my fav animal! :)
 <!--
 **deniseleonen/deniseleonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
